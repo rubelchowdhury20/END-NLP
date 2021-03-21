@@ -1,4 +1,4 @@
-## Python code generator using Transformer
+## Python code generator from text prompts using Transformer
 
 ### DATA PREPROCESSING
 #### Data cleaning:
