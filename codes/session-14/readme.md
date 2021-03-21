@@ -1,3 +1,5 @@
+## Python code generator using Transformer
+
 ### DATA PREPROCESSING
 #### Data cleaning:
 * Initially each of the examples were segregated such a way that, for each of the programs the “objective” begins with a “#” character. This is the only way to list out all the examples separately. The constraint in this procedure is there can be comments also starting with the character “#”. So, keeping these things in mind we have segregated each different example.
@@ -60,7 +62,7 @@ We reduced the capacity of the model to reduce the complexity as we had limited 
 
 * One major problem with this was overfitting that could not be resolved.
 
-**All these problems can be tackled by getting more data and training with more parameters.**
+*All these problems can be tackled by getting more data and training with more parameters.*
 
 ### SCOPE FOR IMPROVEMENT
 
